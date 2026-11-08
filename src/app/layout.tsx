@@ -18,11 +18,33 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://tekinmimarlik.com"),
   title: {
     default: "Tekin Mimarlık | Mimari Tasarım & Proje Ofisi",
     template: "%s | Tekin Mimarlık",
   },
-  description: "Cemal Tekin öncülüğünde ve deneyimli mimari tasarım kadrosuyla 35 yıllık tecrübeyle lüks villa, çok katlı konut ve rezidans projeleri üreten köklü mimarlık ofisi.",
+  description: "Cemal Tekin öncülüğünde ve deneyimli mimari tasarım kadrosuyla 35 yıllık tecrübeyle lüks villa, çok katlı konut ve rezidans projeleri üreten köklü mimarlık ofisi. Çubuk / Ankara.",
+  keywords: [
+    "Tekin Mimarlık",
+    "Tekin Mimarlık Çubuk",
+    "Tekin Mimarlık Ankara",
+    "Cemal Tekin",
+    "Çubuk Mimarlık Ofisi",
+    "Ankara Mimarlık Ofisi",
+    "Mimari Tasarım",
+    "Konut Projeleri",
+    "Villa Tasarımı"
+  ],
+  authors: [{ name: "Tekin Mimarlık" }],
+  creator: "Tekin Mimarlık",
+  openGraph: {
+    type: "website",
+    locale: "tr_TR",
+    url: "https://tekinmimarlik.com",
+    title: "Tekin Mimarlık | Mimari Tasarım & Proje Ofisi",
+    description: "Cemal Tekin öncülüğünde ve deneyimli mimari tasarım kadrosuyla 35 yıllık tecrübeyle lüks villa, çok katlı konut ve rezidans projeleri üreten köklü mimarlık ofisi.",
+    siteName: "Tekin Mimarlık",
+  },
   icons: {
     icon: "/logo.png",
     shortcut: "/logo.png",
