@@ -1,0 +1,34 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+// Mimari Projeler (Vitrin, Devam Eden vb.) Tablosu
+model Project {
+  id          String   @id @default(uuid())
+  title       String   // Çamlıca Villaları
+  type        String   // Konut Projesi
+  category    String   // TAMAMLANANLAR | DEVAM EDENLER
+  ada         String   // 1204
+  parsel      String   // 06
+  description String?  // Proje hakkında uzun yazı
+  coverImage  String?  // Yüklenen kapak görseli
+  gallery     String   @default("[]") // Çoklu galeri resimleri/videoları
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// Sitedeki Dinamik Sayaçlar ve Adresler (Admin'den değişecek) Tablosu
+model SiteSettings {
+  id             String @id @default("1")
+  finishedCount  Int    @default(687)
+  ongoingCount   Int    @default(38)
+  experience     Int    @default(35)
+  teamSize       Int    @default(9)
+  phone          String @default("+90 531 816 79 09")
+  email          String @default("tekinmimarlik6@gmail.com")
+  address        String @default("Atatürk Mahallesi Leylak Sokak Çubuk Ticaret Merkezi Kat:2 No:18 Çubuk / Ankara")
+}

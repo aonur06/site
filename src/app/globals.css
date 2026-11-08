@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tekin-navy: #1C2E3D;
+  --color-tekin-gray: #85868B;
+  --color-tekin-dark: #0A0A0A;
+  --color-tekin-light: #FAFAFA;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #1C2E3D; /* Lacivert Yazı - Premium Hissiyat */
+}
+
+.dark {
+  --background: #0a0a0a; /* Veya logodaki siyah arkaplan */
+  --foreground: #FAFAFA; /* Gece modunda beyaz/gri yazılar */
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 500ms;
+}
+
+/* Şık Pürüzsüz Sayfa Kaydırması */
+html {
+  scroll-behavior: smooth;
+}
