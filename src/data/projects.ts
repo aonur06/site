@@ -180,6 +180,39 @@ export const projectsData: Project[] = [
     ]
   },
   {
+    "id": "41",
+    "slug": "proje-190134-6",
+    "title": "Çubukçu İnşaat",
+    "type": "Konut Projesi",
+    "category": "TAMAMLANANLAR",
+    "typology": "konut",
+    "typologyName": "Çok Katlı Konut & Rezidans",
+    "location": "Ankara",
+    "ada": "190134",
+    "parsel": "6",
+    "area": "3.500 m²",
+    "year": "2024",
+    "client": "Çubukçu İnşaat",
+    "coverImage": "/renders/projeler/proje-190134-6/1.jpg",
+    "gallery": [
+      "/renders/projeler/proje-190134-6/1.jpg",
+      "/renders/projeler/proje-190134-6/2.jpg",
+      "/renders/projeler/proje-190134-6/3.jpg",
+      "/renders/projeler/proje-190134-6/4.jpg",
+      "/renders/projeler/proje-190134-6/5.jpg",
+      "/renders/projeler/proje-190134-6/6.jpg",
+      "/renders/projeler/proje-190134-6/7.jpg",
+      "/renders/projeler/proje-190134-6/8.jpg"
+    ],
+    "concept": "190134 Ada / 6 Parsel (Çubukçu İnşaat), modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "features": [
+      "Modern Dış Cephe Karakteri",
+      "Doğal Işık Alan Plan Şeması",
+      "Yüksek Kalite Malzeme ve İşçilik",
+      "Enerji Verimli Yalıtım Sistemleri"
+    ]
+  },
+  {
     "id": "4",
     "slug": "villa-projesi-1",
     "title": "Çubuk Konsept Villa I",
