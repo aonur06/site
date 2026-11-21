@@ -27,12 +27,12 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Yavuz Selim",
     "ada": "—",
     "parsel": "—",
-    "area": "3.500 m²",
+    "area": "8.800 m²",
     "year": "2024",
-    "client": "Tekin Mimarlık",
+    "client": "Tekin İnşaat",
     "coverImage": "/renders/projeler/proje-tekin-ys/1.jpg",
     "gallery": [
       "/renders/projeler/proje-tekin-ys/1.jpg",
@@ -47,7 +47,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-tekin-ys/10.jpg",
       "/renders/projeler/proje-tekin-ys/11.jpg"
     ],
-    "concept": "Tekin YS Konut Projesi, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Tekin İnşaat öz sermayesiyle hayata geçirilen TEKİN Prime; modern cephe oranları, geniş köşe cam bantları, prestijli giriş tagı ve 11 katlı dinamik mimari kurgusuyla bölgenin ikonik yapılarından biri olarak tasarlanmıştır.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -66,9 +66,9 @@ export const projectsData: Project[] = [
     "location": "Ankara",
     "ada": "220",
     "parsel": "14",
-    "area": "3.500 m²",
+    "area": "5.514 m²",
     "year": "2024",
-    "client": "Tekin Mimarlık",
+    "client": "Tekin İnşaat / Miray Yapı",
     "coverImage": "/renders/projeler/proje-220-14teki-n/1.jpg",
     "gallery": [
       "/renders/projeler/proje-220-14teki-n/1.jpg",
@@ -79,7 +79,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-220-14teki-n/6.jpg",
       "/renders/projeler/proje-220-14teki-n/7.jpg"
     ],
-    "concept": "220 Ada / 14 Parsel (TEKİN), modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "220 Ada 14 Parsel üzerinde yükselen Miray Bulvar; 72 konut birimi, 7 katlı modern blok kurgusu ve 5.514 m² toplam inşaat alanıyla ferah yaşam alanları ve yüksek mühendislik kalitesini buluşturmaktadır.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -98,8 +98,8 @@ export const projectsData: Project[] = [
     "location": "Ankara",
     "ada": "5080",
     "parsel": "5",
-    "area": "3.500 m²",
-    "year": "2024",
+    "area": "1.818 m²",
+    "year": "2023",
     "client": "Tekin İnşaat",
     "coverImage": "/renders/projeler/proje-5080-5/1.jpg",
     "gallery": [
@@ -108,7 +108,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-5080-5/3.jpg",
       "/renders/projeler/proje-5080-5/4.jpg"
     ],
-    "concept": "TEKİN İnşaat Konut Projesi, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Tekin İnşaat güvencesiyle 5080 Ada 5 Parsel'de projelendirilen yapı; 1.818 m² kapalı inşaat alanı, B+Z+4 (6 katlı) mimari formu, kontrast fuga detayları ve çağdaş balkon hatlarıyla estetik bir kentsel duruş sunar.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -127,8 +127,8 @@ export const projectsData: Project[] = [
     "location": "Ankara",
     "ada": "190465",
     "parsel": "2",
-    "area": "14.500 m²",
-    "year": "2024",
+    "area": "9.365 m²",
+    "year": "2023",
     "client": "Kocalar İnşaat",
     "coverImage": "/renders/vitrin-camlica/camlica-01.jpg",
     "gallery": [
@@ -142,7 +142,7 @@ export const projectsData: Project[] = [
       "/renders/vitrin-camlica/camlica-08.jpg",
       "/renders/vitrin-camlica/camlica-09.jpg"
     ],
-    "concept": "Modern kent yaşamının dinamizmini çağdaş cephe kurgusuyla buluşturan Kocalar PORT; geniş cam yüzeyler, dengeli konsol çıkmaları ve peyzajla bütünleşen zemin teraslarıyla sakinlerine prestijli bir yaşam deneyimi sunar.",
+    "concept": "190465 Ada 2 Parsel'de yükselen Kocalar PORT; A ve B bloktan oluşan 9.365 m² toplam inşaat alanı, 2B+Z+10 (13 katlı) görkemli kule yapısı ve modern ticari donatılarıyla prestijli bir karma yaşam merkezi oluşturmaktadır.",
     "features": [
       "Panoramik Şehir Manzarası",
       "Doğal Taş & Kompozit Cephe Bütünlüğü",
@@ -161,7 +161,7 @@ export const projectsData: Project[] = [
     "location": "Ankara / Esenboğa",
     "ada": "190492",
     "parsel": "11",
-    "area": "22.800 m²",
+    "area": "15.736 m²",
     "year": "2025",
     "client": "Skylife Yapı",
     "coverImage": "/renders/skylife/skylife-01.jpg",
@@ -171,7 +171,7 @@ export const projectsData: Project[] = [
       "/renders/skylife/skylife-03.jpg",
       "/renders/skylife/skylife-04.jpg"
     ],
-    "concept": "Havalimanı aksında yükselen SKYLIFE Esenboğa, aerodinamik çizgileri ve kesintisiz balkon hatlarıyla çağdaş havacılık estetiğinden ilham almıştır. Akıcı yatay bantlar yapının kütle ağırlığını hafifleterek modern bir silüet oluşturur.",
+    "concept": "Esenboğa Havalimanı aksında 190492 Ada 11 Parsel'de inşa edilen SKYLIFE; 86 bağımsız bölüm, 15.736 m² blok alanı (22.800 m² toplam parsel inşaatı), fore kazıklı derin temel sistemi ve 13 katlı aerodinamik mimarisiyle geleceğin rezidans standardını belirler.",
     "features": [
       "Hafifletilmiş Dinamik Balkon Hatları",
       "İklim Duyarlı Enerji Verimli Cam Sistemleri",
@@ -190,8 +190,8 @@ export const projectsData: Project[] = [
     "location": "Ankara",
     "ada": "190134",
     "parsel": "6",
-    "area": "3.500 m²",
-    "year": "2024",
+    "area": "7.039 m²",
+    "year": "2025",
     "client": "Çubukçu İnşaat",
     "coverImage": "/renders/projeler/proje-190134-6/1.jpg",
     "gallery": [
@@ -204,7 +204,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-190134-6/7.jpg",
       "/renders/projeler/proje-190134-6/8.jpg"
     ],
-    "concept": "190134 Ada / 6 Parsel (Çubukçu İnşaat), modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "190134 Ada 6 Parsel'de yükselen Çubukçu İnşaat projesi; 45 bağımsız bölüm, 7.039 m² inşaat alanı ve 2B+Z+5 (8 kat) mimari planlamasıyla fonksiyonel mekan kurgusu ve modern dış cephe karakterini bir arada sunmaktadır.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -220,7 +220,7 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "villa",
     "typologyName": "Villa & Müstakil",
-    "location": "Ankara",
+    "location": "Ankara / Çubuk",
     "ada": "—",
     "parsel": "—",
     "area": "450 m²",
@@ -239,7 +239,7 @@ export const projectsData: Project[] = [
       "/renders/villalar/tekin-villa/9.jpg",
       "/renders/villalar/tekin-villa/10.jpg"
     ],
-    "concept": "Doğayla iç içe, modern ve yalın mimari hatlara sahip müstakil villa projesi. Geniş cam açıklıklar, korunaklı bahçe terasları ve akıcı mekan kurgusuyla sakinlerine yüksek konforlu ve mahremiyeti koruyan bir yaşam alanı sunar.",
+    "concept": "Doğayla iç içe, modern ve yalın hatlara sahip müstakil villa projesi. Geniş cam açıklıklar, korunaklı bahçe verandası ve çift katlı galeri boşluğuyla yüksek konforlu ve mahremiyeti önceleyen bir yaşam sunar.",
     "features": [
       "Geniş Bahçe ve Peyzaj Bütünlüğü",
       "Doğal Işık Alan Yüksek Tavanlı Galeri Boşluğu",
@@ -255,7 +255,7 @@ export const projectsData: Project[] = [
     "category": "DEVAM EDENLER",
     "typology": "villa",
     "typologyName": "Villa & Müstakil",
-    "location": "Ankara",
+    "location": "Ankara / Çubuk",
     "ada": "—",
     "parsel": "—",
     "area": "520 m²",
@@ -270,7 +270,7 @@ export const projectsData: Project[] = [
       "/renders/villalar/konsept-villa/5.jpg",
       "/renders/villalar/konsept-villa/6.jpg"
     ],
-    "concept": "Yatay mimari kurgusu ve zengin malzeme dokusuyla dikkat çeken çağdaş villa projesi. Teraslar ve konsollarla zenginleştirilmiş kütle yerleşimi, iç ve dış mekan sınırlarını ortadan kaldırır.",
+    "concept": "Yatay mimari kurgusu ve zengin malzeme dokusuyla dikkat çeken çağdaş villa projesi. Teraslar ve konsollarla zenginleştirilmiş 520 m² kapalı alanı, iç ve dış mekan sınırlarını kusursuzca harmanlar.",
     "features": [
       "Modern Taş ve Ahşap Kompozit Doku Uyumu",
       "Geniş Veranda ve Dinlenme Terasları",
@@ -286,7 +286,7 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "villa",
     "typologyName": "Villa & Müstakil",
-    "location": "Ankara",
+    "location": "Ankara / Çubuk",
     "ada": "—",
     "parsel": "—",
     "area": "480 m²",
@@ -300,7 +300,7 @@ export const projectsData: Project[] = [
       "/renders/villalar/yilmaz-mangal/4.jpg",
       "/renders/villalar/yilmaz-mangal/5.jpg"
     ],
-    "concept": "Geleneksel malzeme sıcaklığını modern hatlarla yorumlayan nitelikli villa tasarımı. Bahçe odaklı yaşamı merkeze alan geniş açıklıklar ve peyzaj ilişkisiyle dingin bir atmosfer oluşturur.",
+    "concept": "Geleneksel malzeme sıcaklığını modern çizgilerle harmanlayan nitelikli villa tasarımı. 480 m² kullanım alanı, peyzajla bütünleşen zemin terasları ve müstakil yaşam ayrıcalığı sağlar.",
     "features": [
       "Doğal Doku Birlikteliği",
       "Geniş Bahçe Verandası ve Barbekü Alanı",
@@ -316,12 +316,12 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Cumhuriyet Mah.",
     "ada": "1074",
     "parsel": "4",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "968 m²",
+    "year": "2023",
+    "client": "Ersöz İnşaat",
     "coverImage": "/renders/projeler/proje-1074-4/1.jpg",
     "gallery": [
       "/renders/projeler/proje-1074-4/1.jpg",
@@ -329,7 +329,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-1074-4/3.jpg",
       "/renders/projeler/proje-1074-4/4.jpg"
     ],
-    "concept": "1074 Ada / 4 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Cumhuriyet Mahallesi 1074 Ada 4 Parsel'de yer alan Ersöz İnşaat konut projesi; 968 m² inşaat alanı, B+Z+3 (5 kat) ergonomik kat kurgusu ve butik apartman konseptiyle kaliteli bir yaşam alanı sunar.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -345,12 +345,12 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Akyurt",
     "ada": "1580",
     "parsel": "9",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "3.110 m²",
+    "year": "2023",
+    "client": "Ahenk İnşaat",
     "coverImage": "/renders/projeler/proje-1580-9/1.png",
     "gallery": [
       "/renders/projeler/proje-1580-9/1.png",
@@ -360,7 +360,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-1580-9/5.jpg",
       "/renders/projeler/proje-1580-9/6.jpg"
     ],
-    "concept": "1580 Ada / 9 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Akyurt Saracalar Mahallesi 1580 Ada 9 Parsel üzerinde inşa edilen Ahenk İnşaat projesi; 3.110 m² toplam kapalı inşaat alanı, Z+5 (6 katlı) mimari formu ve modern balkon cephe oranlarıyla bölgeye değer katmaktadır.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -376,12 +376,12 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Dumlupınar Mah.",
     "ada": "190050",
     "parsel": "4",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "2.707 m²",
+    "year": "2023",
+    "client": "Cem Demirkan Adi Ortaklığı",
     "coverImage": "/renders/projeler/proje-190050-4/1.jpg",
     "gallery": [
       "/renders/projeler/proje-190050-4/1.jpg",
@@ -390,7 +390,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-190050-4/4.jpg",
       "/renders/projeler/proje-190050-4/5.jpg"
     ],
-    "concept": "190050 Ada / 4 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Dumlupınar Mahallesi 190050 Ada 4 Parsel'de projelendirilen Cemre Ticaret ve Ofis Kompleksi; 40 bağımsız bölüm, 2.707 m² inşaat alanı ve B+Z+5 (7 kat) modern cephe kurgusuyla karma ticari ve konut ihtiyacını karşılar.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -406,11 +406,11 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
-    "ada": "1900888",
+    "location": "Ankara / Barbaros Mah.",
+    "ada": "190088",
     "parsel": "4",
-    "area": "3.500 m²",
-    "year": "2024",
+    "area": "1.143 m²",
+    "year": "2023",
     "client": "Tekin Mimarlık",
     "coverImage": "/renders/projeler/proje-1900888-4/1.jpg",
     "gallery": [
@@ -418,7 +418,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-1900888-4/2.jpg",
       "/renders/projeler/proje-1900888-4/3.jpg"
     ],
-    "concept": "1900888 Ada / 4 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Barbaros Mahallesi Kurbantepe Caddesi 190088 Ada 4 Parsel üzerinde tasarlanan yapı; 1.143 m² inşaat alanı, B+Z+4 (6 katlı) dengeli kütle tasarımı ve verimli plan kurgusuyla çağdaş bir konut projesidir.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -434,19 +434,19 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Atatürk Mah.",
     "ada": "190130",
     "parsel": "14",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "3.180 m²",
+    "year": "2022",
+    "client": "BG Design",
     "coverImage": "/renders/projeler/proje-190130-14/1.jpg",
     "gallery": [
       "/renders/projeler/proje-190130-14/1.jpg",
       "/renders/projeler/proje-190130-14/2.jpg",
       "/renders/projeler/proje-190130-14/3.jpg"
     ],
-    "concept": "190130 Ada / 14 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Atatürk Mahallesi 190130 Ada 14 Parsel'de yer alan BG Design projesi; 1.054 m² arsa üzerinde 2B+Z+4 (7 kat) kurgusu, 3.180 m² kapalı alanı ve dinamik cephe hareketleriyle öne çıkan bir konut yapısıdır.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -465,9 +465,9 @@ export const projectsData: Project[] = [
     "location": "Ankara",
     "ada": "190460",
     "parsel": "6",
-    "area": "3.500 m²",
+    "area": "11.708 m²",
     "year": "2024",
-    "client": "Tekin Mimarlık",
+    "client": "Nova Yapı",
     "coverImage": "/renders/projeler/proje-190460-6/1.jpg",
     "gallery": [
       "/renders/projeler/proje-190460-6/1.jpg",
@@ -486,7 +486,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-190460-6/14.jpg",
       "/renders/projeler/proje-190460-6/15.jpg"
     ],
-    "concept": "190460 Ada / 6 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "190460 Ada 6 Parsel'de projelendirilen Nova CAMPUS; 11.708 m² inşaat alanı, 3B+Z+9 (13 kat) anıtsal ölçeği ve çağdaş kampüs-rezidans mimarisiyle modern kentsel yaşamı üst seviyeye taşır.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -505,9 +505,9 @@ export const projectsData: Project[] = [
     "location": "Ankara",
     "ada": "190511",
     "parsel": "1",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "9.269 m²",
+    "year": "2022",
+    "client": "Elmas İnşaat",
     "coverImage": "/renders/projeler/proje-190511-1/1.jpg",
     "gallery": [
       "/renders/projeler/proje-190511-1/1.jpg",
@@ -532,7 +532,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-190511-1/26.jpg",
       "/renders/projeler/proje-190511-1/27.jpg"
     ],
-    "concept": "190511 Ada / 1 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "190511 Ada 1 Parsel'de yer alan Elmas Konutları; A ve B blok toplamında 9.269 m² inşaat alanı, B+Z+9 (11 kat) mimari yüksekliği ve estetik konsol balkonlarıyla göz alıcı bir silüet çizer.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -548,12 +548,12 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "villa",
     "typologyName": "Villa & Müstakil",
-    "location": "Ankara",
+    "location": "Ankara / Çubuk",
     "ada": "190533",
     "parsel": "1",
     "area": "450 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "year": "2025",
+    "client": "Özel İşveren",
     "coverImage": "/renders/projeler/proje-190533-1/1.jpg",
     "gallery": [
       "/renders/projeler/proje-190533-1/1.jpg",
@@ -561,7 +561,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-190533-1/3.jpg",
       "/renders/projeler/proje-190533-1/4.jpg"
     ],
-    "concept": "Modern taş ve ahşap dokuları bir araya getiren çağdaş müstakil villa tasarımı; geniş terasları, dengeli kütle oranları ve peyzajla bütünleşen bahçe kurgusuyla yüksek konforlu bir yaşam deneyimi sunar.",
+    "concept": "190533 Ada 1 Parsel'de ruhsatlandırılan özel villa projesi; 2 katlı müstakil dubleks mimarisi, 450 m² inşaat alanı, geniş bahçe peyzajı ve lüks detaylarıyla seçkin bir villa yaşamı sunar.",
     "features": [
       "Modern Taş & Kompozit Cephe Detayları",
       "Doğal Işık Alan Geniş Cam Yüzeyler",
@@ -580,9 +580,9 @@ export const projectsData: Project[] = [
     "location": "Ankara",
     "ada": "190606",
     "parsel": "14",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "8.598 m²",
+    "year": "2021",
+    "client": "MSR İnşaat",
     "coverImage": "/renders/projeler/proje-190606-14/1.jpg",
     "gallery": [
       "/renders/projeler/proje-190606-14/1.jpg",
@@ -592,7 +592,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-190606-14/5.jpg",
       "/renders/projeler/proje-190606-14/6.jpg"
     ],
-    "concept": "190606 Ada / 14 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "190606 Ada 14 Parsel'de inşa edilen MSR İnşaat projesi; 8.598 m² inşaat alanı, bodrum + zemin + 9 normal kat (11 katlı) statik yapısı ve ferah iç planlarıyla modern rezidans standartlarını karşılar.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -608,12 +608,12 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Çubuk",
     "ada": "191332",
     "parsel": "5",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "518 m²",
+    "year": "2023",
+    "client": "Saygıdeğer İnşaat",
     "coverImage": "/renders/projeler/proje-191332-5/1.jpg",
     "gallery": [
       "/renders/projeler/proje-191332-5/1.jpg",
@@ -622,7 +622,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-191332-5/4.jpg",
       "/renders/projeler/proje-191332-5/5.jpg"
     ],
-    "concept": "191332 Ada / 5 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "191332 Ada 5 Parsel'de projelendirilen Saygıdeğer İnşaat konutu; 518 m² inşaat alanı, B+Z+1 (3 katlı) sıcak ve sakin butik yapısıyla fonksiyonel bir mahalle dokusu sunar.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -638,10 +638,10 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Esenboğa",
     "ada": "233",
     "parsel": "5",
-    "area": "3.500 m²",
+    "area": "848 m²",
     "year": "2024",
     "client": "Tekin Mimarlık",
     "coverImage": "/renders/projeler/proje-233-5/1.jpg",
@@ -651,7 +651,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-233-5/3.jpg",
       "/renders/projeler/proje-233-5/4.jpg"
     ],
-    "concept": "233 Ada / 5 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Esenboğa 233 Ada 5 Parsel üzerinde ruhsatlandırılan yapı; 9 konut birimi, 848 m² inşaat alanı ve 4 katlı zarif kütlesiyle modern ve samimi bir yaşam çevresi oluşturur.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -667,12 +667,12 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Yıldırım Beyazıt Mah.",
     "ada": "256",
     "parsel": "1",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "3.728 m²",
+    "year": "2023",
+    "client": "Ferhat Tuğluca / Mustafa Ünal",
     "coverImage": "/renders/projeler/proje-256-1/1.jpg",
     "gallery": [
       "/renders/projeler/proje-256-1/1.jpg",
@@ -680,7 +680,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-256-1/3.jpg",
       "/renders/projeler/proje-256-1/4.jpg"
     ],
-    "concept": "256 Ada / 1 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Yıldırım Beyazıt Mahallesi 256 Ada 1 Parsel'de hayata geçirilen Çubuk Merkez projesi; 47 bağımsız bölüm, 3.728 m² toplam inşaat alanı ve B+Z+3 (5 kat) mimarisiyle kentin merkezinde canlı bir yaşam alanı sunar.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -696,19 +696,19 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Yıldırım Beyazıt Mah.",
     "ada": "256",
     "parsel": "9",
-    "area": "3.500 m²",
-    "year": "2024",
-    "client": "Tekin Mimarlık",
+    "area": "1.652 m²",
+    "year": "2022",
+    "client": "Mustafa Ünal (Ünallar Emlak)",
     "coverImage": "/renders/projeler/proje-256-9/1.jpg",
     "gallery": [
       "/renders/projeler/proje-256-9/1.jpg",
       "/renders/projeler/proje-256-9/2.jpg",
       "/renders/projeler/proje-256-9/3.jpg"
     ],
-    "concept": "256 Ada / 9 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Yıldırım Beyazıt Mahallesi 256 Ada 9 Parsel üzerinde yükselen Çubuk Merkez II; 16 konut birimi, 1.652 m² inşaat alanı ve 5 katlı çağdaş apartman kurgusuyla nitelikli konut ihtiyacını karşılar.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -724,19 +724,19 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Çubuk",
     "ada": "5121",
     "parsel": "4",
-    "area": "3.500 m²",
+    "area": "1.570 m²",
     "year": "2024",
-    "client": "Tekin Mimarlık",
+    "client": "TPY İnşaat",
     "coverImage": "/renders/projeler/proje-5121-4/1.jpg",
     "gallery": [
       "/renders/projeler/proje-5121-4/1.jpg",
       "/renders/projeler/proje-5121-4/2.jpg",
       "/renders/projeler/proje-5121-4/3.jpg"
     ],
-    "concept": "5121 Ada / 4 Parsel, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "5121 Ada 4 Parsel üzerinde projelendirilen TPY İnşaat yapısı; 12 daire, 1.570 m² inşaat alanı ve 5 katlı dengeli cephe oranlarıyla modern kentsel dönüşümün nitelikli örneklerinden biridir.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -755,9 +755,9 @@ export const projectsData: Project[] = [
     "location": "Ankara",
     "ada": "—",
     "parsel": "—",
-    "area": "3.500 m²",
+    "area": "16.500 m²",
     "year": "2024",
-    "client": "Tekin Mimarlık",
+    "client": "Demars Yapı",
     "coverImage": "/renders/projeler/proje-demars/1.jpg",
     "gallery": [
       "/renders/projeler/proje-demars/1.jpg",
@@ -774,7 +774,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-demars/12.jpg",
       "/renders/projeler/proje-demars/13.jpg"
     ],
-    "concept": "Demars Konut Projesi, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "İki adet 12 katlı rezidans kulesi ve geniş ticari baza bloğundan oluşan DEMARS Konutları; 16.500 m² kapalı inşaat alanı, açık-kapalı otoparkları ve zengin peyzaj düzenlemesiyle prestijli bir yaşam kompleksi sunar.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
@@ -790,12 +790,12 @@ export const projectsData: Project[] = [
     "category": "TAMAMLANANLAR",
     "typology": "konut",
     "typologyName": "Çok Katlı Konut & Rezidans",
-    "location": "Ankara",
+    "location": "Ankara / Esenboğa Bulvarı",
     "ada": "—",
     "parsel": "—",
-    "area": "3.500 m²",
+    "area": "9.800 m²",
     "year": "2024",
-    "client": "Tekin Mimarlık",
+    "client": "Eras Yapı",
     "coverImage": "/renders/projeler/proje-eras/1.jpg",
     "gallery": [
       "/renders/projeler/proje-eras/1.jpg",
@@ -813,7 +813,7 @@ export const projectsData: Project[] = [
       "/renders/projeler/proje-eras/13.jpg",
       "/renders/projeler/proje-eras/14.jpg"
     ],
-    "concept": "Eras Konut Projesi, modern cephe oranları ve fonksiyonel plan kurgusuyla çevre dokuya değer katan çağdaş bir mimari projedir. Estetik ve sağlam mühendislik çözümleri tek bir çatı altında buluşturulmuştur.",
+    "concept": "Esenboğa Bulvar aksında yükselen ERAS Bulvar; zemin katta caddeye cepheli 6 adet mağaza, üzerinde yükselen 10 katlı modern konut kulesi ve 9.800 m² toplam inşaat alanıyla karma bulvar mimarisinin seçkin bir örneğidir.",
     "features": [
       "Modern Dış Cephe Karakteri",
       "Doğal Işık Alan Plan Şeması",
